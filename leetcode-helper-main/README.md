@@ -81,6 +81,3 @@ public:
 - Topological Sort
 - Tree Recursion
 
-## License
-
-MIT
